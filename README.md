@@ -1,7 +1,26 @@
-## Hi there 👋
+<h1>Hi, I'm Haroon! </h1>
+
+<h2>👨‍💻 DevOps Projects:</h2>
+
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+
+<h2> Certifications</h2>
+
+- [AWS Certified Solutions Architect – Associate](https://www.credly.com/badges/c8a2c014-2993-49f7-baf8-380e9cdc21be/public_url)
+- [AWS Certified Developer – Associate](https://www.credly.com/badges/f1895163-a681-4383-a12e-1f5d236219c9/public_url)
+
+<h2> 🤳 Connect with me:</h2>
+
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
 <!--
-**Haroon-K/Haroon-K** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
